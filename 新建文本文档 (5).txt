@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>购买礼品卡</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>购买礼品卡</h1>
+      <p>我是来自购买购买礼品卡的买家，我们承诺价格比其他供应商高出5%。</p >
+    </header>
+
+    <section class="products">
+      <h2>产品展示</h2>
+      <div class="product-grid">
+        <!-- 产品图片区域 -->
+        <p>稍后添加产品图片。</p >
+      </div>
+    </section>
+
+    <footer>
+      <a href=" " class="whatsapp-button">
+        通过 WhatsApp 联系我们：+852 6420 2175
+      </a >
+    </footer>
+  </div>
+</body>
+</html>
